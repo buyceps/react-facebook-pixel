@@ -12,7 +12,7 @@
     "clean": "rm -rf node_modules",
     "prettify": "prettier --write"
   },
-  "repository": "git://github.com/zsajjad/react-facebook-pixel.git",
+  "repository": "git://github.com/buyceps/react-facebook-pixel.git",
   "keywords": [
     "react",
     "reactjs",
